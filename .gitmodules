@@ -1,0 +1,6 @@
+[submodule "vanderbilt"]
+	path = vanderbilt
+	url = git@github.com:beeperking/vanderbilt.git
+[submodule "concourse"]
+	path = concourse
+	url = git@github.com:beeperking/concourse.git
